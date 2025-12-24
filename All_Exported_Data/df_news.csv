@@ -1,0 +1,10 @@
+Date,Source,Headline,Sentiment_Score,Category,Score_Map
+2025-12-23,Economic Times,"Indian Pharma Sector sees 15% growth in exports, but ESG concerns remain",0.0,Neutral,0.0
+2025-12-22,Reuters,Pollution Control Board issues notice to manufacturing units in Gujarat,0.0,Neutral,0.0
+2025-12-22,LiveMint,RPG Life Sciences commits to Net Zero water usage by 2027,0.0,Neutral,0.0
+2025-12-21,Bloomberg,FDA flags quality control issues in generic drug manufacturing,0.0,Neutral,0.0
+2025-12-21,The Hindu,Solar adoption rises: Pharma companies shift to renewable energy,0.0,Neutral,0.0
+2025-12-20,Business Standard,"New PLI scheme boosts domestic API manufacturing, reduces import reliance",0.06818181818181818,Positive,0.06818181818181818
+2025-12-19,CNBC TV18,Groundwater contamination fears rise near industrial pharma parks,0.1,Positive,0.1
+2025-12-18,Financial Express,Strong Q3 earnings expected for mid-cap Pharma stocks,0.16666666666666669,Positive,0.16666666666666669
+2025-12-18,Times of India,Employee safety incidents drop by 20% across the sector,0.0,Neutral,0.0

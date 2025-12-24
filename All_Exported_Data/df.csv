@@ -1,0 +1,8 @@
+Name,Cost_Lakhs,Potential_Tons,MAC_per_Ton,Width,Cum_Width
+LED Retrofit,-50,2000,-2500.0,2000,2000
+Solar Rooftop (PPA),-120,5000,-2400.0,5000,7000
+HVAC Optimization,-20,1500,-1333.3333333333333,1500,8500
+Carbon Credits,100,10000,1000.0,10000,18500
+Solvent Recovery,80,3000,2666.6666666666665,3000,21500
+Electric Boiler,400,8000,5000.0,8000,29500
+Green Logistics,50,1000,5000.0,1000,30500

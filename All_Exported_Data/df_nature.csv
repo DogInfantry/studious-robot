@@ -1,0 +1,6 @@
+Name,Type,Water_Stress_Index,Biodiversity_Intactness,Risk_Category
+Ankleshwar (MFG),Factory,4.5,0.3,CRITICAL (Nature Negative)
+Mumbai (R&D),Office,2.1,0.1,Moderate Risk
+Hyderabad (Supplier),Supply,4.2,0.5,High Water Risk
+Baddi (Packaging),Supply,1.5,0.8,Sensitive Habitat (Protect)
+Vizag (API),Supply,3.8,0.6,High Water Risk
